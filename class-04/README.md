@@ -1,0 +1,29 @@
+# Systems Hardening with CIS Standards
+
+## Overview
+
+IT and cybersecurity professionals use system hardening to reduce the number of vulnderabilities that malicious actors can exploit. The Center for Internet Security (CIS) provides useful standards that can be used to this end. 
+
+## Learning Objectives
+
+### Students will be able to
+
+#### Describe and Define
+
+- AMI
+- Systems hardening
+- CIS
+
+#### Execute
+
+- Improve security configurations of cloud systems
+
+## Today's Outline
+
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab
