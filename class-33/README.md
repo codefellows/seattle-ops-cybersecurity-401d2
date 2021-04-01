@@ -1,10 +1,8 @@
-# Lab: Threat Hunting with Security Onion
+# Lab: Threat Hunting with Zeek, RITA
 
 ## Overview
 
-Many organizations now employ security teams that proactively search for cyber threats on the company network. We can use the capabilities of Security Onion to actively hunt for threats in our systems.
-
-Today you will practice some threat hunting operations with the Security Onion toolset.
+Many organizations now employ security teams that proactively search for cyber threats on the company network. Today you'll practice threat hunting using Zeeka and RITA.
 
 ## Learning Objectives
 
