@@ -34,7 +34,8 @@ Occasionally an OS installer ISO is listed for the class, which indicates that t
 
 |Class |File |Size |Mirror 1 |Mirror 2 |
 --- | --- | --- | --- | ---
-|Class 1|NIST CSF Scoring Tool from Expel|506 KB|[Download](https://www.icloud.com/iclouddrive/0mShMCHa6dgKcIxM9WG9MYFhw#NIST_CSF)|---
+|Class 1|SOC 2 Policy Docs Templates by Blissfully.zip|367 KB|[Download](https://www.icloud.com/iclouddrive/0eMnkh1RDzGrNrbsptnZ7dcXQ#SOC_2_Policy_Docs_Templates_by_Blissfully)|---
+|Class 2|Cloud Security Policy Template PDF|813 KB|[Download](https://www.icloud.com/iclouddrive/0E1ux7MCK6hvgjOO9NeSAJGYA#Cloud_security_policy_template)|---
 |Class 3|CSET 10.0 Installer|814 MB|[Download](https://github.com/cisagov/cset/releases/download/v10.0.0/CSETStandAlone.exe)|---
 |Class 5|Windows Media Creation Tool|18.5 MB|[Download](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d)|---
 ||7-Zip Installer|1414 KB|[Download](https://www.7-zip.org/download.html)|---
