@@ -1,6 +1,6 @@
 # Strategic Policy Development
 
-In striving to mitigate cyber risk for an organization, it is vital to structure such efforts in accordance with industry best practice. One such practice is the NIST Cybersecurity Framework, or CSF. Developed by NIST in response to Executive Order 13636 issue in February 2013, the CSF sets benchmarks for an organization to mature its security process towards, with the ultimate aim of reducing cyber risks to mission-critical infrastructure.
+Compliance requirements are often a critical business driver for adopting new cybersecurity policies, procedures, and systems. One such compliance standard is System and Organization Controls (SOC) 2. Modern security professionals must be familiar with common industry frameworks and compliance standards, and be prepared to align security operations accordingly.
 
 ## Learning Objectives
 
@@ -36,8 +36,12 @@ In striving to mitigate cyber risk for an organization, it is vital to structure
 
 #### Execute
 
-- Assess CSF compliance using a premade tool
-- Communicate a plan to achieve CSF compliance
+- Compose the following deliverables:
+  - Security Architecture Narrative
+  - Information Security Policy
+  - Employee Onboarding Procedure
+  - Employee Offboarding Procedure
+- Automate workstation security configuration according to a compliance standard
 
 ## Today's Outline
 
@@ -49,5 +53,4 @@ In striving to mitigate cyber risk for an organization, it is vital to structure
 
 ## Resources
 
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework/new-framework)
-- Download the [NIST CSF Scoring Tool from Expel](https://www.icloud.com/iclouddrive/0mShMCHa6dgKcIxM9WG9MYFhw#NIST_CSF) and unpack the contents to your desktop for the upcoming lab. 
+- [SOC 2 Policy Docs Templates by Blissfully.zip](https://www.icloud.com/iclouddrive/0eMnkh1RDzGrNrbsptnZ7dcXQ#SOC_2_Policy_Docs_Templates_by_Blissfully)
