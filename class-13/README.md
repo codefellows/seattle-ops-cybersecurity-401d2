@@ -1,6 +1,6 @@
-# Reconstructing a Ransomware Attack with Splunk
+# Reconstructing a Cloud Attack Using Log Data
 
-In a SOC role, you may sometimes need to use a SIEM to construct a timeline of events, and/or compose traffic flow diagrams to help visualize what has happened. During an investigation, you may find yourself working backward to reconstruct an attack; alternatively, you might also find yourself somewhere in the middle of an attack and you must work both backwards and forwards find if additional actions have occurred. 
+With the rapid adoption of cloud storage technologies, an aspiring security practitioner should be well-versed in how to analyze cloud system logs in additional to traditional systems such as servers and endpoints. Many such cloud systems utilize application programming interfaces (API) to facilitate modern levels of automation, which are often susceptible to attack.
 
 ## Learning Objectives
 
@@ -8,15 +8,17 @@ In a SOC role, you may sometimes need to use a SIEM to construct a timeline of e
 
 #### Describe and Define
 
-- Event chaining
-- Ransomware signatures
-- Ransomware damage assessment
-- Redirection post encryption
+- JSON
+- API
+- AWS S3 Bucket
+- Amazon S3 REST API
+- AWS CLI
+- Reverse Proxy
 
 #### Execute
 
-- Utilize Splunk to reconstruct the events and details of a ransomware outbreak
-- Perform a ransomware damage assessment
+- Utilize cloud logs imported into a SIEM to reconstruct the details of a cyber attack in a cloud environment
+- Interpret API calls using official documentation
 
 ## Today's Outline
 
@@ -30,4 +32,6 @@ In a SOC role, you may sometimes need to use a SIEM to construct a timeline of e
 
 ## Resources
 
+- [Attack Data Set in JSON Format](https://raw.githubusercontent.com/OTRF/mordor/master/datasets/small/aws/collection/ec2_proxy_s3_exfiltration.zip)
+- [Amazon S3 API Reference](https://docs.aws.amazon.com/AmazonS3/latest/API/API_Operations.html)
 - [Splunk Cheat Sheet](https://wiki.splunk.com/images/2/2b/Cheatsheet.pdf)
