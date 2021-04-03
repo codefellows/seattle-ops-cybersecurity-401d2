@@ -7,3 +7,7 @@ Today's class will focus on career development. After the workshop, your instruc
 - Career Development Workshop
 - Course Overview
 - Demo Today's Ops Challenge
+
+## Resources
+
+- [Antivirus Evasion with Python](https://medium.com/bugbountywriteup/antivirus-evasion-with-python-49185295caf1)

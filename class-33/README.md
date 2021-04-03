@@ -31,4 +31,4 @@ Many organizations now employ security teams that proactively search for cyber t
 
 ## Resources
 
-- [Active Countermeasures Threat Hunting Labs](https://activecm.github.io/threat-hunting-labs/){:target="_blank"}
+- [Active Countermeasures Threat Hunting Labs](https://activecm.github.io/threat-hunting-labs/)

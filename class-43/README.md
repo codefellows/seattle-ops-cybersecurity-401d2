@@ -35,3 +35,9 @@ A number of techniques are used by cyber attackers to capture data while remaini
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [Ettercap Linux Man Page](https://linux.die.net/man/8/ettercap)
+- [MITM/Wired/ARP Poisoning with Ettercap](https://charlesreid1.com/wiki/Man_in_the_Middle/Wired/ARP_Poisoning_with_Ettercap)
+- [Pentest Tips: ARP Spoofing](https://pentestfreak.blogspot.com/2013/05/redirect-someone-to-different-website.html)

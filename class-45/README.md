@@ -14,6 +14,14 @@ Your final project should be a full showcase of the talents you've cultivated du
 - Review: Ops Challenge
 - Final Project
 
+## Resources
+
+- [class-45-target.ova 7.01 GB Download](https://www.icloud.com/iclouddrive/0kCQRwLBykZiwNul-NXLuZgBQ#class-45-target){:target="_blank"}
+  - This is your target system today.
+- [OSCP Report Templates Repo](https://github.com/whoisflynn/OSCP-Exam-Report-Template){:target="_blank"}
+  - To prepare you for the realities of offensive security reporting, you'll be modeling today's reporting after these OSCP report templates.
+
+
 ## Upcoming Project Schedule
 
 ### Class 45: Project Planning

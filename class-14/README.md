@@ -35,3 +35,9 @@ IDS/IPS administration and operation are essential duties in the modern security
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [Snort Home Page](https://snort.org/)
+- [Snort Video Resources](https://snort.org/resources)
+- [How to Use the Snort Intrusion Detection System on Linux](https://www.cloudsavvyit.com/6424/how-to-use-the-snort-intrusion-detection-system-on-linux/)

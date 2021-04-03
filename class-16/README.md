@@ -43,3 +43,8 @@ In AWS:
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [AWS Identity and Access Management User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+- [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/iam/index.html)

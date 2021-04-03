@@ -27,3 +27,7 @@ IT and cybersecurity professionals use system hardening to reduce the number of 
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [CIS benchmark list](https://downloads.cisecurity.org/#/)

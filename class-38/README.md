@@ -32,4 +32,8 @@ Today you'll use Burp Suite Community Edition to probe a vulnerable web app, the
 
 ## Resources
 
-- [TryHackMe OWASP Juice Shop Room](https://tryhackme.com/room/owaspjuiceshop){:target="_blank"}
+- [Portswigger: Getting Started with Burp Suite Pro/Community](https://portswigger.net/burp/documentation/desktop/getting-started)
+- [OWASP Juice Shop Project Page](https://owasp.org/www-project-juice-shop/)
+- [TryHackMe OWASP Juice Shop Room](https://tryhackme.com/room/owaspjuiceshop)
+- [TryHackMe Web Fundamentals room](https://tryhackme.com/room/webfundamentals)
+- [Daniel Miessler's SecLists GitHub repo](https://github.com/danielmiessler/SecLists)

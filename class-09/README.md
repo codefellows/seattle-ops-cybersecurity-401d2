@@ -54,7 +54,7 @@ Today you will practice using OpenPGP, is an asymmetric PKI encryption solution 
 - [Testing HTTPS with OpenSSL](https://blog.yimingliu.com/2008/02/04/testing-https-with-openssl/)
 - [Introduction to AWS Key Management Service](https://amazon.qwiklabs.com/focuses/10388?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5201321)
 
-## Feature Tasks and Requirements
+## Tasks
 
 Your instructor will assign you a lab partner to help you complete Part 1 and Part 2 of this lab.
 

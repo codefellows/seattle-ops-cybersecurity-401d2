@@ -35,14 +35,14 @@ Data classification is important to establish what level or protection is appopr
 
 ### Downloads
 
-- [Windows 10 Edge VM OVA Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/){:target="_blank"}
-- [Trend Micro Worry-Free Business Security Services 30-Day Trial](https://www.trendmicro.com/product_trials/service/index/us/136){:target="_blank"}
-- [FileZilla Download](https://filezilla-project.org/download.php?type=client){:target="_blank"}
+- [Windows 10 Edge VM OVA Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+- [Trend Micro Worry-Free Business Security Services 30-Day Trial](https://www.trendmicro.com/product_trials/service/index/us/136)
+- [FileZilla Download](https://filezilla-project.org/download.php?type=client)
 
 ### References
 
-- [Trend Micro Worry-Free Business Security Services Login](https://wfbs-svc-nabu.trendmicro.com/wfbs-svc/portal/en/view/index#/dashboard){:target="_blank"}
-- [FileZilla Profile](https://dlptest.com/DLP_Test_FTP_FileZilla.xml){:target="_blank"}
-- [DLP Regulatory Compliance](https://www.cloudcodes.com/blog/dlp-regulatory-compliance.html){:target="_blank"}
-- [DLP Test](https://dlptest.com/){:target="_blank"}
-- [Data Policy Classification Template](https://www.netwrix.com/data_classification_policy_template.html){:target="_blank"}
+- [Trend Micro Worry-Free Business Security Services Login](https://wfbs-svc-nabu.trendmicro.com/wfbs-svc/portal/en/view/index#/dashboard)
+- [FileZilla Profile](https://dlptest.com/DLP_Test_FTP_FileZilla.xml)
+- [DLP Regulatory Compliance](https://www.cloudcodes.com/blog/dlp-regulatory-compliance.html)
+- [DLP Test](https://dlptest.com/)
+- [Data Policy Classification Template](https://www.netwrix.com/data_classification_policy_template.html)

@@ -33,3 +33,11 @@ It is common for organizations to have a FDE encryption policy, requiring all ha
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [What is a TPM chip?](https://www.laptopmag.com/articles/tpm-chip-faq)
+- [How to Encrypt a USB Flash Drive or SD Card with Windows 10](https://www.groovypost.com/howto/encrypt-flash-drive-sd-card-windows-10-bitlocker/)
+- [Enable-BitLocker via Powershell](https://docs.microsoft.com/en-us/powershell/module/bitlocker/enable-bitlocker?view=win10-ps)
+- [Configuring LUKS: Linux Unified Key Setup](https://www.redhat.com/sysadmin/disk-encryption-luks)
+- [How to use eCryptfs on Linux](https://linuxhint.com/ecryptfs_linux/)

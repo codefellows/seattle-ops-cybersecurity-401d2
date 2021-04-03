@@ -36,6 +36,6 @@ Today you will practice the XSS (Reflected) lab in DVWA, then use w3af to scan a
 
 ## Resources
 
-- Web Security Dojo VM
-- [W3AF](https://w3af.org/){:target="_blank"}
-- [Tips for Creating a Strong Vulnerability Assessment Report](https://blog.rsisecurity.com/tips-for-creating-a-strong-vulnerability-assessment-report/){:target="_blank"}
+- [Web Security Dojo VM OVA 5.82 GB Download](https://www.icloud.com/iclouddrive/038L_6Xqfav8PV8Ic_MFe5bYA#class-36-39-security-dojo)
+- [W3AF](https://w3af.org/)
+- [Tips for Creating a Strong Vulnerability Assessment Report](https://blog.rsisecurity.com/tips-for-creating-a-strong-vulnerability-assessment-report/)

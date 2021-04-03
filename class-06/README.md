@@ -10,6 +10,7 @@ Today you will learn how to assure (and attack) confidentiality and integrity at
 
 #### Describe and Define
 
+- SFTP
 - Purpose and application of hash algorithms
 - Hash algorithms
   - MD5
@@ -23,7 +24,6 @@ Today you will learn how to assure (and attack) confidentiality and integrity at
 #### Execute
 
 - Hash dump various OS password files
-- Hash dump a SQL Server DB
 - Decode various hashes using password cracking tools
 
 ## Today's Outline
@@ -43,4 +43,3 @@ Today you will learn how to assure (and attack) confidentiality and integrity at
 - [How to Use Linux SCP Command](https://linuxhint.com/linux_scp_command/)
 - [How to Unshadow the file and dump Linux password Beginner’s Guide](https://www.cyberpratibha.com/unshadow-the-file-and-dump-linux-password/)
 - [How to Crack Passwords with John the Ripper](https://medium.com/@sc015020/how-to-crack-passwords-with-john-the-ripper-fdb98449ff1)
-- [Microsoft: AdventureWorks sample databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)

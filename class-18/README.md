@@ -32,3 +32,9 @@ AWS CloudTrail can capture logs for monitoring and learning of possible anomalou
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [Analyzing AWS CloudTrail in Amazon CloudWatch](https://awsfeed.com/whats-new/management-tools/analyzing-aws-cloudtrail-in-amazon-cloudwatch)
+- [Amazon CloudWatch Events](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/WhatIsCloudWatchEvents.html)
+  - [Creating a Rule That Triggers on an Event](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/WhatIsCloudWatchEvents.html)

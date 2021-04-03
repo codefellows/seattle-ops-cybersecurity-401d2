@@ -28,3 +28,11 @@ The exploitation phase of a pentest is what white hat hackers are famously known
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [class-44-target.ova 855 MB Download](https://www.icloud.com/iclouddrive/0cD5O0wXDPYckCNM2Et7fCHhw#class-44-target)
+- [final-proj-kali-linux.ova 6.79 GB Download](https://www.icloud.com/iclouddrive/083CdbKm3Y48fdtUtm6krPezA#final-proj-kali-linux)
+- [OSCP Report Templates Repo](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
+- [Metasploitable 2 Exploitability Guide](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide)
+- [Attack Metasploitable 2 Using Metapsloit](https://blog.securelayer7.net/attacking-metasploitable-2-using-metasploit/)

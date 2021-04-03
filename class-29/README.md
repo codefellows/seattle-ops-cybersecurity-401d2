@@ -38,5 +38,7 @@ The STRIDE model developed by Microsoft is a popular means of identifying comput
 
 ## Resources
 
-- [Microsoft Threat Modeling Tool](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started){:target="_blank"}
-- [Microsoft Threat Modeling Security Fundamentals](https://docs.microsoft.com/en-us/learn/paths/tm-threat-modeling-fundamentals/){:target="_blank"}
+- [Microsoft Threat Modeling Tool](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started)
+- [Microsoft Threat Modeling Security Fundamentals](https://docs.microsoft.com/en-us/learn/paths/tm-threat-modeling-fundamentals/)
+- [Template: Web Application Threat Model](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff648866(v=pandp.10)?redirectedfrom=MSDN)
+- [Template Sample: Web Application Threat Model](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff649779(v=pandp.10)?redirectedfrom=MSDN)

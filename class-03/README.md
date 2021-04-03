@@ -1,8 +1,8 @@
-# Security Auditing with CSET
+# Cyber Risk Analysis
 
 ## Overview
 
-A security compliance audit is a technical assessment of an IT infrastructure to determine if certain standards are achieved. Today you will use CISA's Cyber Security Evaluation Tool (CSET) to audit your network.
+Cybersecurity risk analysis is vital in your efforts to identify, protect, and manage all your client's information data, systems, and resources. Risk analysis allows you to ultimately create a suitable plan to secure and manage risks for the organization.
 
 ## Learning Objectives
 
@@ -10,21 +10,27 @@ A security compliance audit is a technical assessment of an IT infrastructure to
 
 #### Describe and Define
 
-- Security audit
-- CSET
-- Common compliance regulations
-  - HIPAA
-  - NIST
-  - FISMA
-  - PCI-DSS
-- Right to privacy
-  - CCPA
-  - GDPR
+- Risk
+- Vulnerability
+- Threat
+- Risk Management Lifecycle
+  - Risk Assessment
+    - Categorize, Classify and Valuate Assets
+    - Know/Identify Threats and Vulnerabilities
+  - Risk Analysis
+    - Qualitative
+    - Quantitative
+  - Risk Mitigation/Response
+    - Reduce/Avoid
+    - Transfer
+    - Accept/Reject
+- NIST RMF
+- Risk Assessment Report
 
 #### Execute
 
-- Complete a NIST 800-171 audit with CSET
-- Generate a SSP with CSET
+- Perform a risk analysis using a vulnerability assessment report.
+- Create a risk assessment report.
 
 ## Today's Outline
 
@@ -35,3 +41,8 @@ A security compliance audit is a technical assessment of an IT infrastructure to
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [CyHy Sample Report_508C.pdf](https://www.icloud.com/iclouddrive/0TMsjA7sxPdUxBj1o-rTmwlQQ#CyHy_Sample_Report_508C)
+- [Risk Assessment Worksheet.xlsx](https://www.icloud.com/iclouddrive/0UQGtflOn3XjLgr8cMAMIw7Xw#Risk_Assessment_Worksheet)

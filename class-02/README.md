@@ -32,3 +32,10 @@ Most organizations now have some percentage of their IT infrastructure in the cl
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [AWS Artifact](https://aws.amazon.com/artifact/)
+- [Azure Compliance Documentation](https://docs.microsoft.com/en-us/azure/compliance/)
+- [GCP Compliance Resource Center](https://cloud.google.com/security/compliance/)
+- [Cloud Security Policy Template PDF](https://www.icloud.com/iclouddrive/0E1ux7MCK6hvgjOO9NeSAJGYA#Cloud_security_policy_template)

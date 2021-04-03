@@ -32,7 +32,7 @@ Defenders should be proficient with Virustotal's YARA engine, a powerful platfor
 
 ## Resources
 
-- FLARE VM (Windows 10) OVA Download
+- [FLARE VM OVA 20.6 GB Download](https://www.icloud.com/iclouddrive/03oKYIfm3RDAicOMlzGkrG0oA#class-31-34-flare-vm)
 - [FLARE VM GitHub Repo](https://github.com/fireeye/flare-vm)
 - [Cmder](https://cmder.net/)
 - [ClamAV](http://www.clamav.net/)

@@ -35,11 +35,11 @@ Threat analysis involves the assessment of adversaries, TTPs, and APTs to better
 
 ## Resources
 
-- [MITRE ATT&CK](https://attack.mitre.org){:target="_blank"}
-- [Atomic Red Team GitHub Repo](https://github.com/redcanaryco/atomic-red-team){:target="_blank"}
-- [Getting Started with Atomic Tests](https://atomicredteam.io/testing){:target="_blank"}
-- [Video: How to Use Atomic Red Team Tests](https://www.youtube.com/watch?v=iNl_rltYmoo&ab_channel=RedCanary){:target="_blank"}
-- [Atomic Testing Cycle](https://redcanary.com/blog/atomic-red-team-testing/){:target="_blank"}
+- [MITRE ATT&CK](https://attack.mitre.org)
+- [Atomic Red Team GitHub Repo](https://github.com/redcanaryco/atomic-red-team)
+- [Getting Started with Atomic Tests](https://atomicredteam.io/testing)
+- [Video: How to Use Atomic Red Team Tests](https://www.youtube.com/watch?v=iNl_rltYmoo&ab_channel=RedCanary)
+- [Atomic Testing Cycle](https://redcanary.com/blog/atomic-red-team-testing/)
 
 Refer to this article for developing your threat analysis report:
 

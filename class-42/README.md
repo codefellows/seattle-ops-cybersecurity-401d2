@@ -30,3 +30,6 @@ Today you will perform a "pass the hash" attack using Mimikatz.
 - Lab
 
 ## Resources
+
+- [Pass the Hash Tutorial](https://cqureacademy.com/blog/identity-theft-protection/pass-hash-attack-tutorial)
+- [5 Security Writing Tips to Know](https://www.articlecity.com/blog/what-is-content-writing-for-a-security-company-5-security-writing-tips-to-know/)

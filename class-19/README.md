@@ -30,3 +30,9 @@ Amazon GuardDuty is a threat detection service that continuously monitors for ma
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
+- [Generating Findings with GuardDuty](docs.aws.amazon.com/guard-duty/latest/ug/guardduty_findings.html#guardduty_findings/scripts)
+- [Getting started with AWS Security Hub](https://aws.amazon.com/security-hub/getting-started/)

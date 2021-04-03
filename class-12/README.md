@@ -35,7 +35,6 @@ Now that we've established a basic foundation of how a SIEM is deployed and conf
 
 ## Resources
 
-- [Download class-13-splunkserv-botsv1.ova 10GB](https://www.icloud.com/iclouddrive/0Cwcc4ehn2U4VuOmYR1LTSBOg#class-13-splunkserv-botsv1){:target="_blank"}
-- [Splunk Quick Reference Guide PDF](https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf){:target="_blank"}
-- [Hunting with Splunk: The Basics](https://www.splunk.com/en_us/blog/security/hunting-with-splunk-the-basics.html){:target="_blank"}
-- [Source repo for BOTSv1](https://github.com/splunk/botsv1){:target="_blank"} 
+- [Splunk Quick Reference Guide PDF](https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf)
+- [Hunting with Splunk: The Basics](https://www.splunk.com/en_us/blog/security/hunting-with-splunk-the-basics.html)
+- [Source repo for BOTSv1](https://github.com/splunk/botsv1) 

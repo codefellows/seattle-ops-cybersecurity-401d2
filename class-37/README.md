@@ -37,3 +37,9 @@ Today you'll use one of the many open source/free tools available in the securit
 - Lecture Today's Lab Topic
 - Demo Today's Lab Topic
 - Lab
+
+## Resources
+
+- [ZAP Documentation](https://www.zaproxy.org/docs/){:target="_blank"
+- [TryHackMe Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
+- [Bugcrowd HUNT GitHub repo](https://github.com/bugcrowd/HUNT)

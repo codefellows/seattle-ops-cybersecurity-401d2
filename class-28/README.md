@@ -33,4 +33,6 @@ Web application security expertise is in high demand as companies release increa
 
 ## Resources
 
-- [OWASP Broken Web Apps 1.2 OVA 2.43GB Download](https://sourceforge.net/projects/owaspbwa/files/1.2/OWASP_Broken_Web_Apps_VM_1.2.ova/download){:target="_blank"}
+- [OWASP WebGoat](https://github.com/WebGoat/WebGoat)
+- [Qualitative Risk Analysis with DREAD Model](https://resources.infosecinstitute.com/qualitative-risk-analysis-dread-model/)
+- [Example Threat Modeling Report](https://files.iota.org/trinity/Threat+Modelling+Report+V1.2.signed.pdf)
