@@ -1,6 +1,30 @@
-# Ops 401 Downloads
+# Ops 401
 
-## Overview
+## Course Overview
+
+Ready to kickstart your exciting career in cyber ops? In this intensive course, delve into critical cyber processes like risk assessment, data encryption, network security, threat modeling, code analysis, vulnerability scanning, and incident response. Gain valuable ethical hacker skills in penetration testing, and show off your awesome new abilities in two resume-enhancing projects!
+
+Designed to prepare you for today’s most in-demand security skills, this hands-on course emphasizes practical cyber operations including both offensive and defensive roles. Students will gain cutting-edge cyber ops skills by analyzing and exploiting systems vulnerabilities, implementing defenses against common threats, and using cyber toolkits such as Kali Linux and Metasploit. Vulnerability scanning tools such as Nessus are utilized, as well as security monitoring tools such as Splunk.
+
+This course includes a career coaching curriculum to get you ready for your job search, plus job search assistance after graduation. The course totals 400 hours, including lectures, lab, coworking, and collaborative projects.
+
+### The first half of the course is made up of 4 modules focusing on: 
+
+- Module 1 Governance, Risk, and Compliance (GRC)
+- Module 2 Data Security
+- Module 3 Security Operations 1
+- Module 4 Cloud Security
+- Module 5 Midterm Project
+
+### The second half of the course is comprised of 4 modules focusing on:
+
+- Module 6 Threat Modeling and Analysis
+- Module 7 Security Operations 2
+- Module 8 AppSec and Vulnerability Analysis
+- Module 9 Penetration Testing
+- Module 10 Final Project
+
+## Downloads Overview
 
 All required downloads of large files will be listed here to help you prepare for each class lab activity. It is your responsibility to:
 - Maintain a reliable high speed internet connection.
