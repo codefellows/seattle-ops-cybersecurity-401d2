@@ -8,7 +8,7 @@ Today you will add log rotation capabilities to your Python script.
 
 ## Resources
 
-- [Python: How to Create Rotating Logs](https://www.blog.pythonlibrary.org/2014/02/11/python-how-to-create-rotating-logs/){:target="_blank"}
+- [Python: How to Create Rotating Logs](https://www.blog.pythonlibrary.org/2014/02/11/python-how-to-create-rotating-logs/)
 
 ## Demonstration
 

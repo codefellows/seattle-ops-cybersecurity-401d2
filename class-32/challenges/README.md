@@ -8,8 +8,8 @@ Hash files are a useful way to uniquely identify a file. Today you will continue
 
 ## Resources
 
-- [Hashlib Official Documentation](https://docs.python.org/3/library/hashlib.html){:target="_blank"}
-- [Python Program to Find Hash of File](https://www.programiz.com/python-programming/examples/hash-file){:target="_blank"}
+- [Hashlib Official Documentation](https://docs.python.org/3/library/hashlib.html)
+- [Python Program to Find Hash of File](https://www.programiz.com/python-programming/examples/hash-file)
 
 ## Demonstration
 

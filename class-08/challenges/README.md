@@ -8,9 +8,9 @@ Today you will finish development of a Python script that encrypts data by addin
 
 ## Resources
 
-- [Dialog Boxes with Python](https://www.devdungeon.com/content/dialog-boxes-python){:target="_blank"}
-- [Example Python-based Ransomware](https://github.com/ncorbuk/Python-Ransomware/blob/master/RansomWare.py){:target="_blank"}
-- [Example Ransomware popup and wallpaper](https://www.secpod.com/blog/wp-content/uploads/2017/05/Screenshot-from-2017-05-14-23-42-20.png){:target="_blank"}
+- [Dialog Boxes with Python](https://www.devdungeon.com/content/dialog-boxes-python)
+- [Example Python-based Ransomware](https://github.com/ncorbuk/Python-Ransomware/blob/master/RansomWare.py)
+- [Example Ransomware popup and wallpaper](https://www.secpod.com/blog/wp-content/uploads/2017/05/Screenshot-from-2017-05-14-23-42-20.png)
 
 ## Demonstration
 

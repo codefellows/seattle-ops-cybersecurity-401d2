@@ -16,9 +16,9 @@ Your final project should be a full showcase of the talents you've cultivated du
 
 ## Resources
 
-- [class-45-target.ova 7.01 GB Download](https://www.icloud.com/iclouddrive/0kCQRwLBykZiwNul-NXLuZgBQ#class-45-target){:target="_blank"}
+- [class-45-target.ova 7.01 GB Download](https://www.icloud.com/iclouddrive/0kCQRwLBykZiwNul-NXLuZgBQ#class-45-target)
   - This is your target system today.
-- [OSCP Report Templates Repo](https://github.com/whoisflynn/OSCP-Exam-Report-Template){:target="_blank"}
+- [OSCP Report Templates Repo](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
   - To prepare you for the realities of offensive security reporting, you'll be modeling today's reporting after these OSCP report templates.
 
 

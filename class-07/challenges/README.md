@@ -6,8 +6,8 @@ Encryption of data at rest is a common need in security operations. Today you wi
 
 ## Resources
 
-- [Python: List Of Files In Directory And Subdirectories](https://appdividend.com/2020/01/20/python-list-of-files-in-directory-and-subdirectories/){:target="_blank"}
-- [Recursive File and Directory Manipulation in Python](https://www.pythoncentral.io/recursive-file-and-directory-manipulation-in-python-part-1/){:target="_blank"}
+- [Python: List Of Files In Directory And Subdirectories](https://appdividend.com/2020/01/20/python-list-of-files-in-directory-and-subdirectories/)
+- [Recursive File and Directory Manipulation in Python](https://www.pythoncentral.io/recursive-file-and-directory-manipulation-in-python-part-1/)
 
 ## Demonstration
 

@@ -6,7 +6,7 @@ A brute force attack is a type of computer hack that relies on guessing possible
 
 ## Resources
 
-- [How to Make an SSH Brute-Forcer in Python](https://null-byte.wonderhowto.com/how-to/sploit-make-ssh-brute-forcer-python-0161689/){:target="_blank"}
+- [How to Make an SSH Brute-Forcer in Python](https://null-byte.wonderhowto.com/how-to/sploit-make-ssh-brute-forcer-python-0161689/)
 
 ## Demonstration
 

@@ -2,7 +2,7 @@
 
 In this course we will perform various Ops Challenges in the Python coding language.
 
-Follow [this tutorial](https://code.visualstudio.com/docs/python/python-tutorial){:target="_blank"} to setup Visual Studio (VS) Code with Python plugins.
+Follow [this tutorial](https://code.visualstudio.com/docs/python/python-tutorial) to setup Visual Studio (VS) Code with Python plugins.
 
 Include a screenshot of a successful "hello world" script executing on your Ubuntu VM to receive credit for this assignment.
 

@@ -6,7 +6,7 @@ A brute force attack is a type of computer hack that relies on guessing possible
 
 ## Resources
 
-- [Zipfile documentation](https://docs.python.org/3/library/zipfile.html#module-zipfile){:target="_blank"}
+- [Zipfile documentation](https://docs.python.org/3/library/zipfile.html#module-zipfile)
 
 ## Demonstration
 

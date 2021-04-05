@@ -6,7 +6,7 @@ Tools like Nmap are quite useful on their own, but what about customizing its ca
 
 ## Resources
 
-- [Generating a Range of IP Addresses from a CIDR Address in Python](http://infinityquest.com/python-tutorials/generating-a-range-of-ip-addresses-from-a-cidr-address-in-python/){:target="_blank"}
+- [Generating a Range of IP Addresses from a CIDR Address in Python](http://infinityquest.com/python-tutorials/generating-a-range-of-ip-addresses-from-a-cidr-address-in-python/)
 - [Scapy Official Documentation](https://scapy.readthedocs.io/en/latest/index.html)
   - [About Scapy](https://scapy.readthedocs.io/en/latest/introduction.html#)
   - [Build your own tools](https://scapy.readthedocs.io/en/latest/extending.html)

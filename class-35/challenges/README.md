@@ -6,10 +6,10 @@ As security professionals we are sometimes called upon to evaluate web applicati
 
 ## Resources
 
-- [Nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/){:target="_blank"}
-- [http-enum NSE Script](https://vulners.com/nmap/NMAP:HTTP-ENUM.NSE){:target="_blank"}
-- [Get Started Writing Your Own NSE Scripts for Nmap](https://null-byte.wonderhowto.com/how-to/get-started-writing-your-own-nse-scripts-for-nmap-0187403/){:target="_blank"}
-- [Lua Language Documentation](https://www.lua.org/manual/5.1/){:target="_blank"}
+- [Nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/)
+- [http-enum NSE Script](https://vulners.com/nmap/NMAP:HTTP-ENUM.NSE)
+- [Get Started Writing Your Own NSE Scripts for Nmap](https://null-byte.wonderhowto.com/how-to/get-started-writing-your-own-nse-scripts-for-nmap-0187403/)
+- [Lua Language Documentation](https://www.lua.org/manual/5.1/)
 
 ## Demonstration
 

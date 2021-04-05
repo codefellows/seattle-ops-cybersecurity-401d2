@@ -6,7 +6,7 @@ Now that you've studied and practiced XSS, it's time to explore Python's capabil
 
 ## Resources
 
-- [How to Build a XSS Vulnerability Scanner in Python](https://www.thepythoncode.com/article/make-a-xss-vulnerability-scanner-in-python){:target="_blank"}
+- [How to Build a XSS Vulnerability Scanner in Python](https://www.thepythoncode.com/article/make-a-xss-vulnerability-scanner-in-python)
 
 ## Demonstration
 

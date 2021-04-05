@@ -8,7 +8,7 @@ Today you will capture a cookie and send it back out to the site in order to rec
 
 ## Resources
 
-- [How To Get / Set Http Headers, Cookies And Manage Sessions Use Python Requests Module](https://www.dev2qa.com/how-to-get-set-http-headers-cookies-and-manage-sessions-use-python-requests-module/){:target="_blank"}
+- [How To Get / Set Http Headers, Cookies And Manage Sessions Use Python Requests Module](https://www.dev2qa.com/how-to-get-set-http-headers-cookies-and-manage-sessions-use-python-requests-module/)
 
 ## Demonstration
 

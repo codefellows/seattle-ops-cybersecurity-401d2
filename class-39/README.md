@@ -24,4 +24,4 @@ SQL injection is a prominent attack technique. By exploiting known deficiencies 
 
 ## Resources
 
-- [Portswigger Academy](https://portswigger.net/web-security/all-labs){:target="_blank"}
+- [Portswigger Academy](https://portswigger.net/web-security/all-labs)

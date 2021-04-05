@@ -9,9 +9,9 @@ Today you will begin incorporating logging capabilities into one of your existin
 
 ## Resources
 
-- [Ultimate Guide to Logging](https://www.loggly.com/ultimate-guide/python-logging-basics/){:target="_blank"}
-- [Python Logging Guide](https://www.machinelearningplus.com/python/python-logging-guide/){:target="_blank"}
-- [Logging in New-Style Daemons with systemd](https://www.loggly.com/blog/logging-in-new-style-daemons-with-systemd/){:target="_blank"}
+- [Ultimate Guide to Logging](https://www.loggly.com/ultimate-guide/python-logging-basics/)
+- [Python Logging Guide](https://www.machinelearningplus.com/python/python-logging-guide/)
+- [Logging in New-Style Daemons with systemd](https://www.loggly.com/blog/logging-in-new-style-daemons-with-systemd/)
 
 ## Demonstration
 
