@@ -3,7 +3,8 @@
 ## Interview Question
 
 Ask the candidate: 
-- What is a three-way handshake and how does it work?
+- What is a three-way handshake and how does it work? 
+  - Please illustrate the process using a screenshare and drawing tool of your choosing.
 - What protocol is used?
 - What type of connection is this, one-way or two-way, and what is the technical term for that?
 - Why should security professionals know how this works?
