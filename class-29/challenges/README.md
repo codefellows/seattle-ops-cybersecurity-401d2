@@ -4,7 +4,7 @@
 
 - Read all of the following instructions carefully
 - Today, you and a peer will take turns mock interviewing each other with an ops challenge question, to be answered on the whiteboard without other resources
-- The interviewer will score the candidate according to the [Whiteboard Ops Interview Rubric](https://docs.google.com/spreadsheets/d/1scthkmARfzAFZrSYAp6LA2coOaoWUWbSzMbtIU4jcHw/edit#gid=1422288328){:target="_blank"}
+- The interviewer will score the candidate according to the [Whiteboard Ops Interview Rubric](https://docs.google.com/spreadsheets/d/1scthkmARfzAFZrSYAp6LA2coOaoWUWbSzMbtIU4jcHw/edit#gid=1422288328)
   - Notes can be taken in an electronic copy of the doc, or a print out of it
   - In either case, the completed rubric will be given to the candidate for review purposes
 - The candidate submits the rubric with the score they achieved as a candidate
@@ -14,8 +14,8 @@
 
 Don't look at the interview questions until you decide who will be the first interviewer.
 
-1. The first interviewer will ask [this question](interview-01.md){:target="_blank"}
-1. The second interviewer will ask [this question](interview-02.md){:target="_blank"}
+1. The first interviewer will ask [this question](interview-01.md)
+1. The second interviewer will ask [this question](interview-02.md)
 
 ## Structure
 
