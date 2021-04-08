@@ -1,5 +1,9 @@
 # Interview Demo
 
+This will be used as an in-class demonstration of how the mock interview process should work. The below topic was pulled from Ops 301. In a technical job interview, be prepared for anything. You will likely be tested at multiple levels of comprehension: "What is it, why is it important, and how does it work?" Foundational concepts such as IP stack are fair game in this industry. The below is an example of a common interview question at the entry level, designed to assess your comprehension of computer networking and how security needs correlate. 
+
+Mock interview questions in this class, however, will generally align with the subject matter introduce the same week.
+
 ## Interview Question
 
 Ask the candidate: 
