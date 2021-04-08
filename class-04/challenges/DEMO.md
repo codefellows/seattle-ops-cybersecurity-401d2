@@ -23,7 +23,7 @@ Key areas to explore and discuss:
 
 Before the interview:
 - Carefully review the interview question and interviewer notes.
-- Create your own copy of [Whiteboard Ops Interview Rubric](https://docs.google.com/spreadsheets/d/1scthkmARfzAFZrSYAp6LA2coOaoWUWbSzMbtIU4jcHw/edit#gid=1422288328){:target="_blank"}
+- Create your own copy of [Whiteboard Ops Interview Rubric](https://docs.google.com/spreadsheets/d/1scthkmARfzAFZrSYAp6LA2coOaoWUWbSzMbtIU4jcHw/edit#gid=1422288328)
 - Fill in the details at the top, such as Student and Interviewer
 - Familiarize yourself with the grading rubric, so you know how to score the interview. Review the criteria in advance of the interview so you can steer the conversation towards the scoring requirements.
 
