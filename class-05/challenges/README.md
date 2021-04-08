@@ -8,6 +8,7 @@ Encryption is a key component to data security. In Windows 10 and Ubuntu Linux, 
 
 ### Downloads
 
+- [class-05-cryptor.ova 2.63 GB Download](https://www.icloud.com/iclouddrive/0xXGE-M3-SdlP677X9MnaKGxA#class-05-cryptor)
 - [7-Zip Installer 1414KB Download](https://www.7-zip.org/download.html)
 - [MSEdge on Win10 (x64) Stable 1809 6.75GB Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 

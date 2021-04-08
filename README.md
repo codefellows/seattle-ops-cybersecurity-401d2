@@ -62,7 +62,8 @@ Occasionally an OS installer ISO is listed for the class, which indicates that t
 |Class 2|Cloud Security Policy Template PDF|813 KB|[Download](https://www.icloud.com/iclouddrive/0E1ux7MCK6hvgjOO9NeSAJGYA#Cloud_security_policy_template)|---
 |Class 3|CyHy Sample Report_508C.pdf|1.65 MB|[Download](https://www.icloud.com/iclouddrive/0TMsjA7sxPdUxBj1o-rTmwlQQ#CyHy_Sample_Report_508C)|---
 ||Risk Assessment Worksheet.xlsx|410 KB|[Download](https://www.icloud.com/iclouddrive/0UQGtflOn3XjLgr8cMAMIw7Xw#Risk_Assessment_Worksheet)|---
-|Class 5|Windows Media Creation Tool|18.5 MB|[Download](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d)|---
+|Class 5|class-05-cryptor.ova|2.63 GB|[Download](https://www.icloud.com/iclouddrive/0xXGE-M3-SdlP677X9MnaKGxA#class-05-cryptor)|---
+||Windows Media Creation Tool|18.5 MB|[Download](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d)|---
 ||7-Zip Installer|1414 KB|[Download](https://www.7-zip.org/download.html)|---
 |Class 7|Ubuntu Linux Desktop 20.10 ISO|2.7 GB|[Download](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso?_ga=2.26182525.1148048504.1617140559-1691518363.1609958218)|---
 |Class 8|FileZilla FTP Client Installer|13.5 MB|[Download](https://filezilla-project.org/download.php?type=client)|---
