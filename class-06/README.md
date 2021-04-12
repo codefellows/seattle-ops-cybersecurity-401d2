@@ -10,19 +10,26 @@ Today you will learn how to assure (and attack) confidentiality and integrity at
 
 #### Describe and Define
 
-- SFTP
-- Purpose and application of hash algorithms
-- Hash algorithms
-  - MD5
-  - SHA-1
-  - SHA-256
-- Password cracking tools and techniques
-  - Dictionary attack
-  - Hybrid
-  - Rainbow Table
+- Data states
+  - Data at rest
+  - Data in motion
+  - Data in use
+- Data transmission attack techniques
+  - Man-in-the-middle (MitM)/on-path attack
+  - Downgrade attack
+- Data transmission security protocols
+  - TLS
+  - FTP
+  - SFTP
+  - FTPS
+  - SCP
+  - SMTPS
+  - POP3S
+  - IMAPS
 
 #### Execute
 
+- Deploy and operate a cloud SFTP server
 - Hash dump various OS password files
 - Decode various hashes using password cracking tools
 
