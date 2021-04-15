@@ -68,8 +68,7 @@ Occasionally an OS installer ISO is listed for the class, which indicates that t
 |Class 7|Ubuntu Linux Desktop 20.10 ISO|2.7 GB|[Download](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso?_ga=2.26182525.1148048504.1617140559-1691518363.1609958218)|---
 |Class 8|FileZilla FTP Client Installer|13.5 MB|[Download](https://filezilla-project.org/download.php?type=client)|---
 |Class 9|Gpg4win 3.1.13 Installer|13.5 MB|[Download](https://www.gpg4win.org)|---
-|Class 10|class-10-target.ova|855 MB|[Download](https://www.icloud.com/iclouddrive/0HtOSiZI0qtq2_GDxHskf7E3g#class-10-target)|---
-||Kali Linux 64-bit 2021.1 ISO|4.0 GB|[Download](https://cdimage.kali.org/kali-2021.1/kali-linux-2021.1-installer-amd64.iso)|---
+|Class 10|ADHD4-sha1.ova|6.1 GB|[Download](https://adhdhost.s3.amazonaws.com/ADHD4/ADHD4-sha1.ova)|---
 |Class 11|Class-11-13-splunkserv.ova|10 GB|[Download](https://www.icloud.com/iclouddrive/0y8zfl-Q6ibGhmwA6q5o8Ascg#class-11-13-splunkserv)|---
 |Class 14|Class-14-hunter1.ova|10 GB|[Download](http://hmpg.net/)|---
 |Class 15|Metasploitable 1|545 MB|[Download](https://download.vulnhub.com/metasploitable/Metasploitable.zip)|---
