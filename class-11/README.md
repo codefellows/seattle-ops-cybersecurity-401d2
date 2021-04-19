@@ -33,7 +33,7 @@ A threat detection ecosystem is an essential part of efficient incident response
 
 ## Resources
 
-- [Download class-11-13-splunkserv-b.ova (10 GB)](https://www.icloud.com/iclouddrive/0LyYc2q1BCK2vnQZCua6S4Xmw#class-11-13-splunkserv-b)
+- [Download class-11-13-splunkserv-b.ova (12.8 GB)](https://www.icloud.com/iclouddrive/0LyYc2q1BCK2vnQZCua6S4Xmw#class-11-13-splunkserv-b)
 - [Splunk How to Search Tutorial](https://docs.splunk.com/Documentation/Splunk/8.1.0/SearchTutorial/WelcometotheSearchTutorial)
 - [Official Splunk Training Courses](https://www.splunk.com/en_us/training/free-courses/overview.html)
   

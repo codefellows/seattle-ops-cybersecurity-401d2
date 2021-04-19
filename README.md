@@ -69,7 +69,7 @@ Occasionally an OS installer ISO is listed for the class, which indicates that t
 |Class 8|FileZilla FTP Client Installer|13.5 MB|[Download](https://filezilla-project.org/download.php?type=client)|---
 |Class 9|Gpg4win 3.1.13 Installer|13.5 MB|[Download](https://www.gpg4win.org)|---
 |Class 10|ADHD4-sha1.ova|6.1 GB|[Download](https://adhdhost.s3.amazonaws.com/ADHD4/ADHD4-sha1.ova)|---
-|Class 11|Class-11-13-splunkserv.ova|10 GB|[Download](https://www.icloud.com/iclouddrive/0y8zfl-Q6ibGhmwA6q5o8Ascg#class-11-13-splunkserv)|---
+|Class 11|Class-11-13-splunkserv-b.ova|12.8 GB|[Download](https://www.icloud.com/iclouddrive/0LyYc2q1BCK2vnQZCua6S4Xmw#class-11-13-splunkserv-b)|---
 |Class 14|Class-14-hunter1.ova|10 GB|[Download](http://hmpg.net/)|---
 |Class 15|Metasploitable 1|545 MB|[Download](https://download.vulnhub.com/metasploitable/Metasploitable.zip)|---
 |Class 29|Microsoft Threat Modeling Tool|16.2 KB|[Download](https://aka.ms/threatmodelingtool)|---
