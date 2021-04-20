@@ -6,7 +6,7 @@ The demo code below introduces concepts necessary to complete the challenge.
 
 ```python
 
-#! /usr/bin/env python3
+#!/usr/bin/env python3
 
 import ipaddress
 from scapy.all import ICMP, IP, sr1, TCP

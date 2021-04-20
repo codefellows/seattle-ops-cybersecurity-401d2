@@ -23,7 +23,7 @@ The second example scans a specific port on a given host IP, then returns the re
 
 ```python
 
-#! /usr/bin/env python3
+#!/usr/bin/env python3
 
 # Run this with sudo
 
