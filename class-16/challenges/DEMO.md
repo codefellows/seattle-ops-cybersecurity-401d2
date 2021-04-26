@@ -8,34 +8,49 @@ This example code uses PyAutoGUI to cycle through the alphabet.
 
 ```python
 
-import itertools
-import time
-import pyautogui
+# Import libraries
+import time, getpass
 
-Alphabet = ("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-_.")
-CharLength = 1
-username = "youremail@domain.com"
+# Declare functions
+def iterator ():
+    filepath = input("Enter your dictionary filepath:\n")
+    #filepath = '/home/osboxes/Desktop/rockyou2.txt' #test filepath
+    
+    file = open(filepath, encoding = "ISO-8859-1") # address encoding problem
+    line = file.readline()
+    while line:
+        line = line.rstrip()
+        word = line
+        print(word)
+        time.sleep(1)
+        line = file.readline()
+    file.close()
 
-for Index in range(25):
-    passwords = (itertools.product(Alphabet, repeat = Index))
-	for i in passwords:
-        i = str(i)
-        i = i.replace("[", "")
-        i = i.replace("]", "")
-        i = i.replace("'", "")
-        i = i.replace(" ", "")
-        i = i.replace(",", "")
-        i = i.replace("(", "")
-        i = i.replace(")", "")
-        pyautogui.typewrite(username)
-        pyautogui.keyDown("enter")
-        pyautogui.keyUp("enter")
-        pyautogui.typewrite(i)
-        pyautogui.keyDown("enter")
-        pyautogui.keyUp("enter")
-    Index += 1
+# def check_password()
+# Add password recognition code here
+#
+#
+#
+
+# Main
+
+if __name__ == "__main__": # when my computer runs this file...do this stuff
+    while True:
+        mode = input("""
+Brue Force Wordlist Attack Tool Menu
+1 - Offensive, Dictionary Iterator
+2 - Defensive, Password Recognized
+3 - Exit
+    Please enter a number: 
+""")
+        if (mode == "1"):
+            iterator()
+        elif (mode == "2"):
+            check_password()
+        elif (mode == '3'):
+            break
+        else:
+            print("Invalid selection...") 
 
 ```
 "DEMO.md" 45L, 1015C                                                                                                                                                 1,1           Top
-
-
