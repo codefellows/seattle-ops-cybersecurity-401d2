@@ -108,7 +108,7 @@ Here is a list of requirements your manager would like to see addressed in your 
     - AWS CloudTrail
     - Amazon GuardDuty
   - Exclude the Physical Security section.
-  - Explain how CIS benchmarks were incorporated into your Windows deployment(s) in the cloud. Validate CIS compliance using AWS Security Hub.
+  - Explain how CIS benchmarks were applied to your cloud instance(s). Validate CIS compliance using AWS Security Hub.
     - Explain how FDE was used to secure hard drives on your systems.
     - Explain how PKI was used in your cloud environment.
 
