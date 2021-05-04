@@ -93,7 +93,7 @@ Here is a list of requirements your manager would like to see addressed in your 
 - PD01: Risk Assessment Worksheet
   - Complete a risk assessment worksheet for your client company, addressing threats to the company's operations and what level of risk they each present.
 - PD02: Security Assessment Report (SAR)
-  - Using the [SAR template file](https://www.icloud.com/iclouddrive/0XdxCef5K0vl44HMsvUEhop2Q#Security_Assessment_Report_Template-a), complete a SAR.
+  - Using the [SAR template file](https://www.icloud.com/iclouddrive/0mLh-le4fAPK-j24pJTmYzOsg#sar-template-v2), complete a SAR.
   - Include and discuss the findings of your risk assessment worksheet.
 - PD03: Data Security Policy 
   - Using the [data security policy template](https://www.icloud.com/iclouddrive/02ASEYZEy9ynPM3ph6Zw8YoJg#Data_Security_Policy_Template), complete a data security policy that addresses data security concerns such as encryption and DLP practices. 
