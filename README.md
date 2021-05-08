@@ -2,9 +2,9 @@
 
 ## Course Overview
 
-Ready to kickstart your exciting career in cyber ops? In this intensive course, delve into critical cyber processes like risk assessment, data encryption, network security, threat modeling, code analysis, vulnerability scanning, and incident response. Gain valuable ethical hacker skills in penetration testing, and show off your awesome new abilities in two resume-enhancing projects!
+Ready to kickstart your exciting career in cyber security operations (SecOps)? In this intensive course, delve into critical topics like cyber frameworks, data encryption, cloud security, network security, threat modeling, shell scripting, vulnerability scanning, and incident response. Gain valuable ethical hacker skills in penetration testing, and show off your awesome new abilities in two resume-enhancing projects!
 
-Designed to prepare you for today’s most in-demand security skills, this hands-on course emphasizes practical cyber operations including both offensive and defensive roles. Students will gain cutting-edge cyber ops skills by analyzing and exploiting systems vulnerabilities, implementing defenses against common threats, and using cyber toolkits such as Kali Linux and Metasploit. Vulnerability scanning tools such as Nessus are utilized, as well as security monitoring tools such as Splunk.
+Designed to prepare you for today’s most in-demand security skills, this hands-on course emphasizes practical SecOps. Students will gain cutting-edge skills by analyzing systems vulnerabilities, implementing defenses against common threats, and using industry-relevant tooling. 
 
 This course includes a career coaching curriculum to get you ready for your job search, plus job search assistance after graduation. The course totals 400 hours, including lectures, lab, coworking, and collaborative projects.
 
@@ -68,10 +68,19 @@ Occasionally an OS installer ISO is listed for the class, which indicates that t
 |Class 7|Ubuntu Linux Desktop 20.10 ISO|2.7 GB|[Download](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso?_ga=2.26182525.1148048504.1617140559-1691518363.1609958218)|---
 |Class 8|FileZilla FTP Client Installer|13.5 MB|[Download](https://filezilla-project.org/download.php?type=client)|---
 |Class 9|Gpg4win 3.1.13 Installer|13.5 MB|[Download](https://www.gpg4win.org)|---
-|Class 10|ADHD4-sha1.ova|6.1 GB|[Download](https://adhdhost.s3.amazonaws.com/ADHD4/ADHD4-sha1.ova)|---
+|Class 10|class-10-target.ova|855 MB|[Download](https://www.icloud.com/iclouddrive/0HtOSiZI0qtq2_GDxHskf7E3g#class-10-target)|---
+||Kali Linux 64-bit 2021.1 ISO|4.0 GB|[Download](https://cdimage.kali.org/kali-2021.1/kali-linux-2021.1-installer-amd64.iso)|---
 |Class 11|Class-11-13-splunkserv-b.ova|12.8 GB|[Download](https://www.icloud.com/iclouddrive/0LyYc2q1BCK2vnQZCua6S4Xmw#class-11-13-splunkserv-b)|---
-|Class 14|Class-14-hunter1.ova|10 GB|[Download](http://hmpg.net/)|---
+|Class 14|Class-14-hunter3.ova|4 GB|[Download](https://www.icloud.com/iclouddrive/0LtGXX4-NEN8RC8r-YWYw5SRQ#class-14-hunter3)|---
 |Class 15|Metasploitable 1|545 MB|[Download](https://download.vulnhub.com/metasploitable/Metasploitable.zip)|---
+|Class 26|term2-baseline-lab-v3.zip (All Class 26 VMs below included)|44 GB|[Download](https://www.icloud.com/iclouddrive/0fO8--bEvI5CD9_qbemzUJCfQ#term2-baseline-lab-v3)|[Download](https://drive.google.com/file/d/1JP2rAUrS0P5oE_2PCCI7IVwH0aNDAZFf/view?usp=sharing)
+||attacker.ova (Single VM)|5.43 GB|[Download](https://www.icloud.com/iclouddrive/04IusUo6QpAnBP1DSYh0aERCg#attacker)|[Download](https://drive.google.com/file/d/1QWPBIEErotSk7wMHereLzz1VXSBbLEvl/view?usp=sharing)
+||ids.ova (Single VM)|9.88 GB|[Download](https://www.icloud.com/iclouddrive/0pt8y8UMeYUCvTSA22a3Fd7DA#ids)|[Download](https://drive.google.com/file/d/1sFC66FyKOFCNi6aO_GWJEaz0COAtkX7N/view?usp=sharing)
+||pfsense-corpnet.ova (Single VM)|748 MB|[Download](https://www.icloud.com/iclouddrive/0Mak9rX5eQNrQQ-s0vatjGsqw#pfsense-corpnet)|[Download](https://drive.google.com/file/d/1VPIw4B5W61qtOS183dFs_ncUffgmtDoC/view?usp=sharing)
+||siem.ova (Single VM)|13.5 GB|[Download](https://www.icloud.com/iclouddrive/0_xrcz8lVpgbiiCbWqYdtrW-g#siem)|[Download](https://drive.google.com/file/d/1kMkerDbFa-YBVNxqHFpTDJeARNZcAuO0/view?usp=sharing)
+||README.txt|1.37 KB|[Download](https://www.icloud.com/iclouddrive/0HxGxI1n-kPEfNjCvK8EzlPvw#README)|[Download](https://drive.google.com/file/d/1x8dyPjabTQEv8cdxFk8IfnDuFwhlDE8s/view?usp=sharing)
+||win10.ova (Single VM)|5.81 GB|[Download](https://www.icloud.com/iclouddrive/0DiPZbOQIhPgJzEDaM4eH4pxw#win10)|[Download](https://drive.google.com/file/d/1QcYsloownynpziStIZd5uGP5G2YI7n2b/view?usp=sharing)
+||winserv2019-dc1.ova (Single VM)|9.36 GB|[Download](https://www.icloud.com/iclouddrive/0k6wTtxJ0SIFpsVbaJokEJG2g#winserv2019-dc1)|[Download](https://drive.google.com/file/d/1TXLsmDNNKOQG9x18GRMKP1Md-6bOiT2J/view?usp=sharing)
 |Class 29|Microsoft Threat Modeling Tool|16.2 KB|[Download](https://aka.ms/threatmodelingtool)|---
 |Class 30|Metasploitable 3|211 MB|[Download](https://www.icloud.com/iclouddrive/0FLPP06UPo0DDi5lMQ2ay2tXw#Metasploitable3-0.1)|[Download](https://drive.google.com/file/d/1573s_6WM7DBqvtrOJKydwNECthSsK6sV/view?usp=sharing)
 |Class 31|class-31-34-flare-vm.ova|21.3 GB|[Download](https://www.icloud.com/iclouddrive/03oKYIfm3RDAicOMlzGkrG0oA#class-31-34-flare-vm)|[Download](https://drive.google.com/file/d/14K90afieJ1nGA3EmDwizJ2K3lLzZB1K1/view?usp=sharing)
@@ -94,12 +103,12 @@ The following is a more detailed breakdown of required VMs and downloads for eac
 ### Module 1 Governance, Risk, and Compliance (GRC)
 
 - Class 1 
-  - NIST CSF Scoring Tool from Expel
+  - SOC 2 Policy Docs Templates by Blissfully.zip
 - Class 2
-  - No downloads
+  - Cloud Security Policy Template PDF
 - Class 3 
-  - CSET 10.0 EXE Download
-  - This software only runs on Windows OS
+  - CyHy Sample Report_508C.pdf
+  - Risk Assessment Worksheet.xlsx
 - Class 4
   - No downloads
 - Class 5
@@ -155,11 +164,11 @@ The following is a more detailed breakdown of required VMs and downloads for eac
 ### Module 6 Threat Modeling and Analysis
 
 - Class 26
-  - No downloads
+  - Term 2 Baseline Lab
 - Class 27
-  - No downloads
+  - Term 2 Baseline Lab
 - Class 28
-  - No downloads
+  - Term 2 Baseline Lab
 - Class 29
   - Microsoft Threat Modeling Tool
 - Class 30
