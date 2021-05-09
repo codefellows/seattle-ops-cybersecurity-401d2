@@ -1,8 +1,8 @@
-# Web Application Threat Modeling with OWASP, DREAD
+# Log Clearing
 
 ## Overview
 
-Web application security expertise is in high demand as companies release increasingly powerful web applications. The professional security organization, OWASP, is known for its lists of the most common web application vulnerabilities. The ability to assess a web app for common security issues and communicate the risks associated with these issues using industry standard models such as DREAD will serve you well throughout your career, as you evaluate threats to organizational systems and recommend appropriate defenses.
+Defense evasion as documented in TA0005 is an important tactic used by threat actors to avoid detection by defensive systems. By damaging the integrity of event logs, threat actors hope to not only avoid detection but may also seek to avoid prosecution and accountability for their actions on objectives. T1070 tells us that threat actors will often go to great lengths to cover their tracks by deleting evidence of their actions. One such method is log clearing, which we'll explore today as our sample technique to which we'll apply the Atomic Testing Cycle.
 
 ## Learning Objectives
 
@@ -10,16 +10,14 @@ Web application security expertise is in high demand as companies release increa
 
 #### Describe and Define
 
-- Vulnerability
-- Threat
-- Web App
-- OWASP Top 10
-- DREAD Analysis
+- Atomic Testing Cycle
+- Log clearing
+- Defense Evasion
 
 #### Execute
 
-- Evaluate a web app for OWASP vulnerabilities
-- Perform a DREAD analysis against a web app
+- Perform a full Atomic Testing Cycle
+- Test out a log clearing attack
 
 ## Today's Outline
 
@@ -33,6 +31,5 @@ Web application security expertise is in high demand as companies release increa
 
 ## Resources
 
-- [OWASP WebGoat](https://github.com/WebGoat/WebGoat)
-- [Qualitative Risk Analysis with DREAD Model](https://resources.infosecinstitute.com/qualitative-risk-analysis-dread-model/)
-- [Example Threat Modeling Report](https://files.iota.org/trinity/Threat+Modelling+Report+V1.2.signed.pdf)
+- [Atomic Red Team T1070.001](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1070.001/T1070.001.md)
+- [Atomic Testing Cycle](https://atomicredteam.io/testing.html)

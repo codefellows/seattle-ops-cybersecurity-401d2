@@ -1,8 +1,8 @@
-# Threat Analysis with MITRE ATT&CK
+# Persistence
 
 ## Overview
 
-Threat analysis involves the assessment of adversaries, TTPs, and APTs to better understand threats and therefore mitigate them appropriately. As defenders, we want to ideally simulate a known TTP and then assess how we can best detect and prevent them in our environments. Modern security teams have access to MITRE ATT&CK, a community database of known TTPs. We also have access to Red Canary's Atomic Red Team, an open source library created to test TTPs mapped to MITRE ATT&CK, providing a hands-on method to test how systems respond to specific MITRE ATT&CK TTPs. Cyber defenders must become students of MITRE ATT&CK and be able to test their defenses using the Atomic Red Team project.
+As documented in MITRE ATT&CK® tactic TA0003, adversaries upon establishing a foothold will apply various methods of implementing a "backdoor" to the targeted system, generally known as establishing persistence. Our lab today explores how this is done using the infamous attack framework, Powershell Empire. By reproducing the threat at a technical level, we can use this to build a model of the threat and hopefully implement proper defenses.
 
 ## Learning Objectives
 
@@ -11,17 +11,17 @@ Threat analysis involves the assessment of adversaries, TTPs, and APTs to better
 #### Describe and Define
 
 - Atomic Red Team
-- Atomic Testing Cycle
-- MITRE ATT&CK
-- Adversary
-- TTP
+- Atomic Test
+- Powershell Empire
+  - Listeners
+  - Stagers
+  - Agents
+- Persistence
 
 #### Execute
 
-- Analyze a MITRE ATT&CK technique and reproduce it in lab
-- Perform attack simulation using Atomic Red Team
-- Utilize MITRE ATT&CK to mitigate threats and improve defenses
-- Communicate Atomic Testing Cycle findings by compiling a written report
+- Use Powershell Empire to establish a persistent shell to a victim Windows 10 computer
+- Explore detective and preventative controls to use against persistence techniques
 
 ## Today's Outline
 
@@ -35,12 +35,6 @@ Threat analysis involves the assessment of adversaries, TTPs, and APTs to better
 
 ## Resources
 
-- [MITRE ATT&CK](https://attack.mitre.org)
-- [Atomic Red Team GitHub Repo](https://github.com/redcanaryco/atomic-red-team)
-- [Getting Started with Atomic Tests](https://atomicredteam.io/testing)
-- [Video: How to Use Atomic Red Team Tests](https://www.youtube.com/watch?v=iNl_rltYmoo&ab_channel=RedCanary)
-- [Atomic Testing Cycle](https://redcanary.com/blog/atomic-red-team-testing/)
-
-Refer to this article for developing your threat analysis report:
-
-- [Getting Started with ATT&CK: Adversary Emulation and Red Teaming](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3)
+- [MITRE ATT&CK®](https://attack.mitre.org)
+- [Empire Documentation](http://www.powershellempire.com/?page_id=110)
+- [PowerShell Empire Complete Tutorial For Beginners](https://www.youtube.com/watch?v=52xkWbDMUUM&ab_channel=HackerSploit)

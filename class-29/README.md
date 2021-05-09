@@ -1,4 +1,4 @@
-# Threat Modeling with Microsoft DFD, STRIDE
+# Modeling a Web Application
 
 ## Overview
 
@@ -24,7 +24,7 @@ The STRIDE model developed by Microsoft is a popular means of identifying comput
 #### Execute
 
 - Perform threat modeling against a vulnerable web app
-- Apply the Microsoft STRIDE framework as part of threat modelling process
+- Apply the Microsoft STRIDE framework as part of threat modeling process
 
 ## Today's Outline
 

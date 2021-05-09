@@ -33,3 +33,9 @@ Throughout this class, you've developed shell scripts as a form of automation. W
 - Lab
 
 ## Resources
+
+- [Term2-baseline-lab-v3.zip Download (43.7 GB)](https://www.icloud.com/iclouddrive/0fO8--bEvI5CD9_qbemzUJCfQ#term2-baseline-lab-v3)
+- [MITRE ATT&CK®](https://attack.mitre.org)
+- [Mordor Data Set: Empire Invoke PsExec](https://mordordatasets.com/notebooks/small/windows/02_execution/SDWIN-190518210652.html#datasets-downloads)
+- [PsExec Artifacts Reference](https://jpcertcc.github.io/ToolAnalysisResultSheet/details/PsExec.htm#Findings)
+- [Invoke-PsExec for Powershell](https://www.powershelladmin.com/wiki/Invoke-PsExec_for_PowerShell)
