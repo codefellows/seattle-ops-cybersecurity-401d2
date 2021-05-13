@@ -79,7 +79,7 @@ Occasionally an OS installer ISO is listed for the class, which indicates that t
 ||pfsense-corpnet.ova (Single VM)|748 MB|[Download](https://www.icloud.com/iclouddrive/0Mak9rX5eQNrQQ-s0vatjGsqw#pfsense-corpnet)|[Download](https://drive.google.com/file/d/1VPIw4B5W61qtOS183dFs_ncUffgmtDoC/view?usp=sharing)
 ||siem.ova (Single VM)|13.5 GB|[Download](https://www.icloud.com/iclouddrive/0_xrcz8lVpgbiiCbWqYdtrW-g#siem)|[Download](https://drive.google.com/file/d/1kMkerDbFa-YBVNxqHFpTDJeARNZcAuO0/view?usp=sharing)
 ||README.txt|1.37 KB|[Download](https://www.icloud.com/iclouddrive/0HxGxI1n-kPEfNjCvK8EzlPvw#README)|[Download](https://drive.google.com/file/d/1x8dyPjabTQEv8cdxFk8IfnDuFwhlDE8s/view?usp=sharing)
-||win10.ova (Single VM)|5.81 GB|[Download](https://www.icloud.com/iclouddrive/0DiPZbOQIhPgJzEDaM4eH4pxw#win10)|[Download](https://drive.google.com/file/d/1QcYsloownynpziStIZd5uGP5G2YI7n2b/view?usp=sharing)
+||win10-v2.ova (Single VM)|5.81 GB|[Download](https://www.icloud.com/iclouddrive/0fj3zpzdfMT-UcK5oIpm8DkaA#win10-v2)|[Download](https://drive.google.com/file/d/1PqmgBpXUDP9dnS4vdVLAMoMt8iDUzxCQ/view?usp=sharing)
 ||winserv2019-dc1.ova (Single VM)|9.36 GB|[Download](https://www.icloud.com/iclouddrive/0k6wTtxJ0SIFpsVbaJokEJG2g#winserv2019-dc1)|[Download](https://drive.google.com/file/d/1TXLsmDNNKOQG9x18GRMKP1Md-6bOiT2J/view?usp=sharing)
 |Class 29|Microsoft Threat Modeling Tool|16.2 KB|[Download](https://aka.ms/threatmodelingtool)|---
 |Class 30|Metasploitable 3|211 MB|[Download](https://www.icloud.com/iclouddrive/0FLPP06UPo0DDi5lMQ2ay2tXw#Metasploitable3-0.1)|[Download](https://drive.google.com/file/d/1573s_6WM7DBqvtrOJKydwNECthSsK6sV/view?usp=sharing)
