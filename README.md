@@ -82,7 +82,7 @@ Occasionally an OS installer ISO is listed for the class, which indicates that t
 ||win10-v2.ova (Single VM)|5.81 GB|[Download](https://www.icloud.com/iclouddrive/0fj3zpzdfMT-UcK5oIpm8DkaA#win10-v2)|[Download](https://drive.google.com/file/d/1PqmgBpXUDP9dnS4vdVLAMoMt8iDUzxCQ/view?usp=sharing)
 ||winserv2019-dc1.ova (Single VM)|9.36 GB|[Download](https://www.icloud.com/iclouddrive/0k6wTtxJ0SIFpsVbaJokEJG2g#winserv2019-dc1)|[Download](https://drive.google.com/file/d/1TXLsmDNNKOQG9x18GRMKP1Md-6bOiT2J/view?usp=sharing)
 |Class 29|Microsoft Threat Modeling Tool|16.2 KB|[Download](https://aka.ms/threatmodelingtool)|---
-|Class 30|Metasploitable 3|211 MB|[Download](https://www.icloud.com/iclouddrive/0FLPP06UPo0DDi5lMQ2ay2tXw#Metasploitable3-0.1)|[Download](https://drive.google.com/file/d/1573s_6WM7DBqvtrOJKydwNECthSsK6sV/view?usp=sharing)
+|Class 30|Metasploitable 3|6.43 GB|[Download](https://app.vagrantup.com/rapid7/boxes/metasploitable3-win2k8/versions/0.1.0-weekly/providers/virtualbox.box)|---
 |Class 31|class-31-34-flare-vm.ova|21.3 GB|[Download](https://www.icloud.com/iclouddrive/03oKYIfm3RDAicOMlzGkrG0oA#class-31-34-flare-vm)|[Download](https://drive.google.com/file/d/14K90afieJ1nGA3EmDwizJ2K3lLzZB1K1/view?usp=sharing)
 |Class 33|sample-1500.pcap|1.6 GB|[Download](https://github.com/activecm/threat-hunting-labs/releases/download/v1.0/sample-1500.pcap)|---
 ||sample-500.pcap|832 MB|[Download](https://github.com/activecm/threat-hunting-labs/releases/download/v1.0/sample-1500.pcap)|---
